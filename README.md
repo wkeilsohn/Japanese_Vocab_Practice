@@ -1,2 +1,2 @@
-# Japanese_Vocab_Practice
-A CMD App for practicing japanese vocabulary
+# Japanese Vocab Practice
+A CMD App for practicing Japanese vocabulary
